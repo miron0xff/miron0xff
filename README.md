@@ -10,4 +10,4 @@
 
 ## 🤝 Connect with me
 
-[![a.m.mironov@gmail.com](https://img.shields.io/badge/a.m.mironov@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:a.m.mironov@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/vas3k/](https://www.linkedin.com/in/aleksandr-mironov-4aab258a/))
+[![a.m.mironov@gmail.com](https://img.shields.io/badge/a.m.mironov@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:a.m.mironov@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleksandr-mironov-4aab258a/)
