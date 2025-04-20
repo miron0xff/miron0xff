@@ -1,8 +1,6 @@
 ### Hi there 👋 I'm Alex
 
-- 🗺️ I work remotely from one of my favorite countries 🇬🇪 🇻🇳 🇮🇩.
 - 🔭 I’m currently working on some AI, Cyber Security and Fintech projects.
-- 🐍 Most of the time I write Python & JS.
 
 ## 🛠 My stack badge area
 
